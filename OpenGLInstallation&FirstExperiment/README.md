@@ -1,6 +1,5 @@
 # OpenGL Hands On Practice
 
-## 陈胤良202030000403
 
 ---
 
